@@ -1,0 +1,11 @@
+DptID,DptName,Phone,Address,FacultyID
+1,CS,8477487736,CS Building,1
+2,Math,8477487737,Math Building,231
+3,EEE,8472122449,EEE Building,123
+4,English,8473122449,English Building,4
+5,Mechanics,8473122559,Mechanics Building,555
+6,Civil,8473122669,Civil Building,443
+7,History,8473122779,BSB,654
+8,Anthropology,8473122889,BSB 2,234
+9,Geography,8473122999,BSB 3,768
+10,Music,8473658987,Music Building,979
