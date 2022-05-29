@@ -1,4 +1,4 @@
-###Java program where it connects to MySQL server, reads your CSV data files and populates the MySQL database.
+### Java program where it connects to MySQL server, reads your CSV data files and populates the MySQL database.
 
 First, I created the tables in the MySQL database using the SQL DDL statements.
 It's important to add MySQL-JDBC connector JAR file in the program.
